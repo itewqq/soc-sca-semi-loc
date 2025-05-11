@@ -16,6 +16,4 @@ Even after removing the metal protective cover, the front-side CPU leak of the R
 
 ## Trace processing
 
-The collected trace files used in the paper is too big to share on github. However, sharing files with other services may interfere with double-blind review, so we have decided to share the traces after the paper results are available. You can email us if you want to obtain the traces before then.
-
-For the processing code, please refer to the trace_processing folder.
+Please refer to the trace_processing folder. All traces used in the paper could be downloaded at [here](https://1drv.ms/u/c/a7c5ff15f8f8c857/EYkpfS0ytbFJuSsPkWYgNOcB65V08AVAd50HXf6FpIWLyQ?e=MGg2f8).
